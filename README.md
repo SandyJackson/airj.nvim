@@ -1,5 +1,8 @@
 # kickstart.nvim
 
+## Personal
+This is a fork of the Kickstart Neovim Repo. Instructions are preserved below; The config will be substantially updated.
+
 ## Introduction
 
 A starting point for Neovim that is:
